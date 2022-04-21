@@ -1,5 +1,5 @@
 # KMeans_Clustering_Algorithm
-This is a matlab code of K means clustering algorithm 
+We implemented an interactive KMeans algorithm in Matlab which visually represents the processing and functioning of the algorithm.
 
 ## KMeans_1D.mlx
 Algorith based on 1-Dimensional data
